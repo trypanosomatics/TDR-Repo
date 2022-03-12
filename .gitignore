@@ -1,0 +1,10 @@
+ScaffoldHunter
+old
+knime
+data/*/
+tmp
+*.pkl
+*.svg
+assets
+screening
+.ipynb_checkpoints/libraryPreparation-checkpoint.ipynb
